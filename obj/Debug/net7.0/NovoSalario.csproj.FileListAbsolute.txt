@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\NovoSalario.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\NovoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\NovoSalario.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\NovoSalario.AssemblyInfo.cs
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\NovoSalario.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\NovoSalario\bin\Debug\net7.0\NovoSalario.exe
+C:\Users\plaud\Desktop\NovoSalario\bin\Debug\net7.0\NovoSalario.deps.json
+C:\Users\plaud\Desktop\NovoSalario\bin\Debug\net7.0\NovoSalario.runtimeconfig.json
+C:\Users\plaud\Desktop\NovoSalario\bin\Debug\net7.0\NovoSalario.dll
+C:\Users\plaud\Desktop\NovoSalario\bin\Debug\net7.0\NovoSalario.pdb
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\NovoSalario.dll
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\refint\NovoSalario.dll
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\NovoSalario.pdb
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\NovoSalario.genruntimeconfig.cache
+C:\Users\plaud\Desktop\NovoSalario\obj\Debug\net7.0\ref\NovoSalario.dll
